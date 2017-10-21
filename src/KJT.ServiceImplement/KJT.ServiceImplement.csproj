@@ -1,0 +1,13 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp2.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\DataInter\DataInter.csproj" />
+    <ProjectReference Include="..\KJT.ServiceInterface\KJT.ServiceInterface.csproj" />
+    <ProjectReference Include="..\KJT.WebFrameWork\KJT.WebFrameWork.csproj" />
+  </ItemGroup>
+
+</Project>

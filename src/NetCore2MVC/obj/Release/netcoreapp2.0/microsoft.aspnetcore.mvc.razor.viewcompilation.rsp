@@ -1,0 +1,12 @@
+D:\Work\Test\NetCore2MVC\NetCore2MVC
+--output-path=obj\Release\netcoreapp2.0\
+--application-name=NetCore2MVC
+--content-root=D:\Work\Test\NetCore2MVC\NetCore2MVC
+--file=D:\Work\Test\NetCore2MVC\NetCore2MVC\Views\Home\About.cshtml
+--file=D:\Work\Test\NetCore2MVC\NetCore2MVC\Views\Home\Contact.cshtml
+--file=D:\Work\Test\NetCore2MVC\NetCore2MVC\Views\Home\Index.cshtml
+--file=D:\Work\Test\NetCore2MVC\NetCore2MVC\Views\Shared\Error.cshtml
+--file=D:\Work\Test\NetCore2MVC\NetCore2MVC\Views\Shared\_Layout.cshtml
+--file=D:\Work\Test\NetCore2MVC\NetCore2MVC\Views\Shared\_ValidationScriptsPartial.cshtml
+--file=D:\Work\Test\NetCore2MVC\NetCore2MVC\Views\_ViewImports.cshtml
+--file=D:\Work\Test\NetCore2MVC\NetCore2MVC\Views\_ViewStart.cshtml

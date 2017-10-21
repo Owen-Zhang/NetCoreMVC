@@ -1,0 +1,8 @@
+D:\Work\Test\NetCore2MVC\KJT.WebFrameWork\bin\Release\netcoreapp2.0\KJT.WebFrameWork.deps.json
+D:\Work\Test\NetCore2MVC\KJT.WebFrameWork\bin\Release\netcoreapp2.0\KJT.WebFrameWork.dll
+D:\Work\Test\NetCore2MVC\KJT.WebFrameWork\bin\Release\netcoreapp2.0\KJT.WebFrameWork.pdb
+D:\Work\Test\NetCore2MVC\KJT.WebFrameWork\obj\Release\netcoreapp2.0\KJT.WebFrameWork.csproj.CoreCompileInputs.cache
+D:\Work\Test\NetCore2MVC\KJT.WebFrameWork\obj\Release\netcoreapp2.0\KJT.WebFrameWork.AssemblyInfoInputs.cache
+D:\Work\Test\NetCore2MVC\KJT.WebFrameWork\obj\Release\netcoreapp2.0\KJT.WebFrameWork.AssemblyInfo.cs
+D:\Work\Test\NetCore2MVC\KJT.WebFrameWork\obj\Release\netcoreapp2.0\KJT.WebFrameWork.dll
+D:\Work\Test\NetCore2MVC\KJT.WebFrameWork\obj\Release\netcoreapp2.0\KJT.WebFrameWork.pdb

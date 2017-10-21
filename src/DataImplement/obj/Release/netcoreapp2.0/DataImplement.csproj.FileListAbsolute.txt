@@ -1,0 +1,13 @@
+D:\Work\Test\NetCore2MVC\DataImplement\bin\Release\netcoreapp2.0\DataImplement.deps.json
+D:\Work\Test\NetCore2MVC\DataImplement\bin\Release\netcoreapp2.0\DataImplement.dll
+D:\Work\Test\NetCore2MVC\DataImplement\bin\Release\netcoreapp2.0\DataImplement.pdb
+D:\Work\Test\NetCore2MVC\DataImplement\bin\Release\netcoreapp2.0\DataInter.dll
+D:\Work\Test\NetCore2MVC\DataImplement\bin\Release\netcoreapp2.0\KJT.WebFrameWork.dll
+D:\Work\Test\NetCore2MVC\DataImplement\bin\Release\netcoreapp2.0\DataInter.pdb
+D:\Work\Test\NetCore2MVC\DataImplement\bin\Release\netcoreapp2.0\KJT.WebFrameWork.pdb
+D:\Work\Test\NetCore2MVC\DataImplement\obj\Release\netcoreapp2.0\DataImplement.csprojResolveAssemblyReference.cache
+D:\Work\Test\NetCore2MVC\DataImplement\obj\Release\netcoreapp2.0\DataImplement.csproj.CoreCompileInputs.cache
+D:\Work\Test\NetCore2MVC\DataImplement\obj\Release\netcoreapp2.0\DataImplement.AssemblyInfoInputs.cache
+D:\Work\Test\NetCore2MVC\DataImplement\obj\Release\netcoreapp2.0\DataImplement.AssemblyInfo.cs
+D:\Work\Test\NetCore2MVC\DataImplement\obj\Release\netcoreapp2.0\DataImplement.dll
+D:\Work\Test\NetCore2MVC\DataImplement\obj\Release\netcoreapp2.0\DataImplement.pdb

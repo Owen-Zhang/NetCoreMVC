@@ -1,0 +1,11 @@
+D:\Work\Test\NetCore2MVC\DataInter\bin\Release\netcoreapp2.0\DataInter.deps.json
+D:\Work\Test\NetCore2MVC\DataInter\bin\Release\netcoreapp2.0\DataInter.dll
+D:\Work\Test\NetCore2MVC\DataInter\bin\Release\netcoreapp2.0\DataInter.pdb
+D:\Work\Test\NetCore2MVC\DataInter\bin\Release\netcoreapp2.0\KJT.WebFrameWork.dll
+D:\Work\Test\NetCore2MVC\DataInter\bin\Release\netcoreapp2.0\KJT.WebFrameWork.pdb
+D:\Work\Test\NetCore2MVC\DataInter\obj\Release\netcoreapp2.0\DataInter.csprojResolveAssemblyReference.cache
+D:\Work\Test\NetCore2MVC\DataInter\obj\Release\netcoreapp2.0\DataInter.csproj.CoreCompileInputs.cache
+D:\Work\Test\NetCore2MVC\DataInter\obj\Release\netcoreapp2.0\DataInter.AssemblyInfoInputs.cache
+D:\Work\Test\NetCore2MVC\DataInter\obj\Release\netcoreapp2.0\DataInter.AssemblyInfo.cs
+D:\Work\Test\NetCore2MVC\DataInter\obj\Release\netcoreapp2.0\DataInter.dll
+D:\Work\Test\NetCore2MVC\DataInter\obj\Release\netcoreapp2.0\DataInter.pdb

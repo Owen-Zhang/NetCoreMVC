@@ -1,0 +1,9 @@
+D:\Work\Test\NetCore2MVC\KJT.Model\bin\Release\netcoreapp2.0\KJT.Model.deps.json
+D:\Work\Test\NetCore2MVC\KJT.Model\bin\Release\netcoreapp2.0\KJT.Model.dll
+D:\Work\Test\NetCore2MVC\KJT.Model\bin\Release\netcoreapp2.0\KJT.Model.pdb
+D:\Work\Test\NetCore2MVC\KJT.Model\obj\Release\netcoreapp2.0\KJT.Model.csprojResolveAssemblyReference.cache
+D:\Work\Test\NetCore2MVC\KJT.Model\obj\Release\netcoreapp2.0\KJT.Model.csproj.CoreCompileInputs.cache
+D:\Work\Test\NetCore2MVC\KJT.Model\obj\Release\netcoreapp2.0\KJT.Model.AssemblyInfoInputs.cache
+D:\Work\Test\NetCore2MVC\KJT.Model\obj\Release\netcoreapp2.0\KJT.Model.AssemblyInfo.cs
+D:\Work\Test\NetCore2MVC\KJT.Model\obj\Release\netcoreapp2.0\KJT.Model.dll
+D:\Work\Test\NetCore2MVC\KJT.Model\obj\Release\netcoreapp2.0\KJT.Model.pdb

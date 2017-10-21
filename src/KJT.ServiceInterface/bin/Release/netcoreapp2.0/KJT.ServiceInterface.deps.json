@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v2.0",
+    "signature": "da39a3ee5e6b4b0d3255bfef95601890afd80709"
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v2.0": {
+      "KJT.ServiceInterface/1.0.0": {
+        "dependencies": {
+          "KJT.WebFrameWork": "1.0.0"
+        },
+        "runtime": {
+          "KJT.ServiceInterface.dll": {}
+        }
+      },
+      "KJT.WebFrameWork/1.0.0": {
+        "runtime": {
+          "KJT.WebFrameWork.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "KJT.ServiceInterface/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "KJT.WebFrameWork/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

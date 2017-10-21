@@ -1,0 +1,9 @@
+diff a/.gitignore b/.gitignore	(rejected hunks)
+@@ -39,6 +39,7 @@
+ .builds
+ output/
+ .output/
++
+ 
+ 
+ output*/

@@ -1,0 +1,31 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp2.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Autofac" Version="4.6.1" />
+    <PackageReference Include="Autofac.Extensions.DependencyInjection" Version="4.2.0" />
+    <PackageReference Include="Microsoft.AspNetCore.All" Version="2.0.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <DotNetCliToolReference Include="Microsoft.VisualStudio.Web.CodeGeneration.Tools" Version="2.0.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Include="Configuration\Test.json" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\DataImplement\DataImplement.csproj" />
+    <ProjectReference Include="..\DataInter\DataInter.csproj" />
+    <ProjectReference Include="..\KJT.Model\KJT.Model.csproj" />
+    <ProjectReference Include="..\KJT.Resouce\KJT.Resouce.csproj" />
+    <ProjectReference Include="..\KJT.ServiceImplement\KJT.ServiceImplement.csproj" />
+    <ProjectReference Include="..\KJT.ServiceInterface\KJT.ServiceInterface.csproj" />
+    <ProjectReference Include="..\KJT.WebFrameWork\KJT.WebFrameWork.csproj" />
+  </ItemGroup>
+
+</Project>
