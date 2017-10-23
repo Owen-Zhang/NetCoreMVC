@@ -117,7 +117,10 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
-  <data name="Key" xml:space="preserve">
-    <value>中文中文</value>
+  <data name="key" xml:space="preserve">
+    <value>繁体key</value>
+  </data>
+  <data name="adsfafdasdf" xml:space="preserve">
+    <value>asdfasdfasdfasdfasd</value>
   </data>
 </root>

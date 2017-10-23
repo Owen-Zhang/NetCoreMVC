@@ -20,7 +20,7 @@ namespace NetCore2MVC.Controllers
         {
             //这个可以写到filter里去，不用下层管理
             System.Threading.Thread.CurrentThread.CurrentCulture = //System.Globalization.CultureInfo.GetCultureInfo("en-Us");
-            System.Threading.Thread.CurrentThread.CurrentUICulture = System.Globalization.CultureInfo.GetCultureInfo("zh-CN"); //en-Us
+            System.Threading.Thread.CurrentThread.CurrentUICulture = System.Globalization.CultureInfo.GetCultureInfo("en-Us"); //en-Us
 
             this.settings = setting.Value;
             this.inter = inter;
@@ -30,7 +30,8 @@ namespace NetCore2MVC.Controllers
 
         public IActionResult Index()
         {
-            var value = Message.Key;
+            var value = Message.key;
+            var value2 = Message.adsfafdasdf;
             var result = Common.AutofacProvider.GetService<Inter>().TestInterfaceInfo("111");
             return View();
         }

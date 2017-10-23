@@ -833,11 +833,11 @@
       "hideWarningsAndErrors": true
     },
     "restore": {
-      "projectUniqueName": "D:\\Work\\Test\\NetCore2MVC\\DataImplement\\DataImplement.csproj",
+      "projectUniqueName": "D:\\Work\\Git\\NetCoreMVC\\src\\DataImplement\\DataImplement.csproj",
       "projectName": "DataImplement",
-      "projectPath": "D:\\Work\\Test\\NetCore2MVC\\DataImplement\\DataImplement.csproj",
+      "projectPath": "D:\\Work\\Git\\NetCoreMVC\\src\\DataImplement\\DataImplement.csproj",
       "packagesPath": "C:\\Users\\辉哥\\.nuget\\packages\\",
-      "outputPath": "D:\\Work\\Test\\NetCore2MVC\\DataImplement\\obj\\",
+      "outputPath": "D:\\Work\\Git\\NetCoreMVC\\src\\DataImplement\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -852,13 +852,13 @@
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "http://192.168.60.25:8090/nuget/": {},
-        "https://api.nuget.org/v3/index.json": {}
+        "https://www.nuget.org/api/v2/": {}
       },
       "frameworks": {
         "netcoreapp2.0": {
           "projectReferences": {
-            "D:\\Work\\Test\\NetCore2MVC\\DataInter\\DataInter.csproj": {
-              "projectPath": "D:\\Work\\Test\\NetCore2MVC\\DataInter\\DataInter.csproj"
+            "D:\\Work\\Git\\NetCoreMVC\\src\\DataInter\\DataInter.csproj": {
+              "projectPath": "D:\\Work\\Git\\NetCoreMVC\\src\\DataInter\\DataInter.csproj"
             }
           }
         }

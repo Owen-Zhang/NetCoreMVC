@@ -673,11 +673,11 @@
       "hideWarningsAndErrors": true
     },
     "restore": {
-      "projectUniqueName": "D:\\Work\\Test\\NetCore2MVC\\KJT.Resouce\\KJT.Resouce.csproj",
+      "projectUniqueName": "D:\\Work\\Git\\NetCoreMVC\\src\\KJT.Resouce\\KJT.Resouce.csproj",
       "projectName": "KJT.Resouce",
-      "projectPath": "D:\\Work\\Test\\NetCore2MVC\\KJT.Resouce\\KJT.Resouce.csproj",
+      "projectPath": "D:\\Work\\Git\\NetCoreMVC\\src\\KJT.Resouce\\KJT.Resouce.csproj",
       "packagesPath": "C:\\Users\\辉哥\\.nuget\\packages\\",
-      "outputPath": "D:\\Work\\Test\\NetCore2MVC\\KJT.Resouce\\obj\\",
+      "outputPath": "D:\\Work\\Git\\NetCoreMVC\\src\\KJT.Resouce\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -692,7 +692,7 @@
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "http://192.168.60.25:8090/nuget/": {},
-        "https://api.nuget.org/v3/index.json": {}
+        "https://www.nuget.org/api/v2/": {}
       },
       "frameworks": {
         "netcoreapp2.0": {

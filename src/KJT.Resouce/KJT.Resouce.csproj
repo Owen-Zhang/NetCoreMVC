@@ -5,11 +5,7 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <Compile Update="Message.en-Us.Designer.cs">
-      <DesignTime>True</DesignTime>
-      <AutoGen>True</AutoGen>
-      <DependentUpon>Message.en-Us.resx</DependentUpon>
-    </Compile>
+    <Compile Remove="Message.en-Us.Designer.cs" />
   </ItemGroup>
 
   <ItemGroup>

@@ -12725,11 +12725,11 @@
       "hideWarningsAndErrors": true
     },
     "restore": {
-      "projectUniqueName": "D:\\Work\\Test\\NetCore2MVC\\NetCore2MVC\\NetCore2MVC.csproj",
+      "projectUniqueName": "D:\\Work\\Git\\NetCoreMVC\\src\\NetCore2MVC\\NetCore2MVC.csproj",
       "projectName": "NetCore2MVC",
-      "projectPath": "D:\\Work\\Test\\NetCore2MVC\\NetCore2MVC\\NetCore2MVC.csproj",
+      "projectPath": "D:\\Work\\Git\\NetCoreMVC\\src\\NetCore2MVC\\NetCore2MVC.csproj",
       "packagesPath": "C:\\Users\\辉哥\\.nuget\\packages\\",
-      "outputPath": "D:\\Work\\Test\\NetCore2MVC\\NetCore2MVC\\obj\\",
+      "outputPath": "D:\\Work\\Git\\NetCoreMVC\\src\\NetCore2MVC\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -12744,31 +12744,31 @@
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "http://192.168.60.25:8090/nuget/": {},
-        "https://api.nuget.org/v3/index.json": {}
+        "https://www.nuget.org/api/v2/": {}
       },
       "frameworks": {
         "netcoreapp2.0": {
           "projectReferences": {
-            "D:\\Work\\Test\\NetCore2MVC\\KJT.ServiceImplement\\KJT.ServiceImplement.csproj": {
-              "projectPath": "D:\\Work\\Test\\NetCore2MVC\\KJT.ServiceImplement\\KJT.ServiceImplement.csproj"
+            "D:\\Work\\Git\\NetCoreMVC\\src\\KJT.ServiceImplement\\KJT.ServiceImplement.csproj": {
+              "projectPath": "D:\\Work\\Git\\NetCoreMVC\\src\\KJT.ServiceImplement\\KJT.ServiceImplement.csproj"
             },
-            "D:\\Work\\Test\\NetCore2MVC\\KJT.ServiceInterface\\KJT.ServiceInterface.csproj": {
-              "projectPath": "D:\\Work\\Test\\NetCore2MVC\\KJT.ServiceInterface\\KJT.ServiceInterface.csproj"
+            "D:\\Work\\Git\\NetCoreMVC\\src\\KJT.ServiceInterface\\KJT.ServiceInterface.csproj": {
+              "projectPath": "D:\\Work\\Git\\NetCoreMVC\\src\\KJT.ServiceInterface\\KJT.ServiceInterface.csproj"
             },
-            "D:\\Work\\Test\\NetCore2MVC\\KJT.Model\\KJT.Model.csproj": {
-              "projectPath": "D:\\Work\\Test\\NetCore2MVC\\KJT.Model\\KJT.Model.csproj"
+            "D:\\Work\\Git\\NetCoreMVC\\src\\KJT.Model\\KJT.Model.csproj": {
+              "projectPath": "D:\\Work\\Git\\NetCoreMVC\\src\\KJT.Model\\KJT.Model.csproj"
             },
-            "D:\\Work\\Test\\NetCore2MVC\\KJT.WebFrameWork\\KJT.WebFrameWork.csproj": {
-              "projectPath": "D:\\Work\\Test\\NetCore2MVC\\KJT.WebFrameWork\\KJT.WebFrameWork.csproj"
+            "D:\\Work\\Git\\NetCoreMVC\\src\\KJT.WebFrameWork\\KJT.WebFrameWork.csproj": {
+              "projectPath": "D:\\Work\\Git\\NetCoreMVC\\src\\KJT.WebFrameWork\\KJT.WebFrameWork.csproj"
             },
-            "D:\\Work\\Test\\NetCore2MVC\\DataImplement\\DataImplement.csproj": {
-              "projectPath": "D:\\Work\\Test\\NetCore2MVC\\DataImplement\\DataImplement.csproj"
+            "D:\\Work\\Git\\NetCoreMVC\\src\\DataImplement\\DataImplement.csproj": {
+              "projectPath": "D:\\Work\\Git\\NetCoreMVC\\src\\DataImplement\\DataImplement.csproj"
             },
-            "D:\\Work\\Test\\NetCore2MVC\\DataInter\\DataInter.csproj": {
-              "projectPath": "D:\\Work\\Test\\NetCore2MVC\\DataInter\\DataInter.csproj"
+            "D:\\Work\\Git\\NetCoreMVC\\src\\DataInter\\DataInter.csproj": {
+              "projectPath": "D:\\Work\\Git\\NetCoreMVC\\src\\DataInter\\DataInter.csproj"
             },
-            "D:\\Work\\Test\\NetCore2MVC\\KJT.Resouce\\KJT.Resouce.csproj": {
-              "projectPath": "D:\\Work\\Test\\NetCore2MVC\\KJT.Resouce\\KJT.Resouce.csproj"
+            "D:\\Work\\Git\\NetCoreMVC\\src\\KJT.Resouce\\KJT.Resouce.csproj": {
+              "projectPath": "D:\\Work\\Git\\NetCoreMVC\\src\\KJT.Resouce\\KJT.Resouce.csproj"
             }
           }
         }

@@ -815,11 +815,11 @@
       "hideWarningsAndErrors": true
     },
     "restore": {
-      "projectUniqueName": "D:\\Work\\Test\\NetCore2MVC\\KJT.ServiceInterface\\KJT.ServiceInterface.csproj",
+      "projectUniqueName": "D:\\Work\\Git\\NetCoreMVC\\src\\KJT.ServiceInterface\\KJT.ServiceInterface.csproj",
       "projectName": "KJT.ServiceInterface",
-      "projectPath": "D:\\Work\\Test\\NetCore2MVC\\KJT.ServiceInterface\\KJT.ServiceInterface.csproj",
+      "projectPath": "D:\\Work\\Git\\NetCoreMVC\\src\\KJT.ServiceInterface\\KJT.ServiceInterface.csproj",
       "packagesPath": "C:\\Users\\辉哥\\.nuget\\packages\\",
-      "outputPath": "D:\\Work\\Test\\NetCore2MVC\\KJT.ServiceInterface\\obj\\",
+      "outputPath": "D:\\Work\\Git\\NetCoreMVC\\src\\KJT.ServiceInterface\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -834,13 +834,13 @@
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "http://192.168.60.25:8090/nuget/": {},
-        "https://api.nuget.org/v3/index.json": {}
+        "https://www.nuget.org/api/v2/": {}
       },
       "frameworks": {
         "netcoreapp2.0": {
           "projectReferences": {
-            "D:\\Work\\Test\\NetCore2MVC\\KJT.WebFrameWork\\KJT.WebFrameWork.csproj": {
-              "projectPath": "D:\\Work\\Test\\NetCore2MVC\\KJT.WebFrameWork\\KJT.WebFrameWork.csproj"
+            "D:\\Work\\Git\\NetCoreMVC\\src\\KJT.WebFrameWork\\KJT.WebFrameWork.csproj": {
+              "projectPath": "D:\\Work\\Git\\NetCoreMVC\\src\\KJT.WebFrameWork\\KJT.WebFrameWork.csproj"
             }
           }
         }
