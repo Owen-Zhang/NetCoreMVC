@@ -267,6 +267,16 @@
           "bin/placeholder/DataInter.dll": {}
         }
       },
+      "KJT.Resouce/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v2.0",
+        "compile": {
+          "bin/placeholder/KJT.Resouce.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/KJT.Resouce.dll": {}
+        }
+      },
       "KJT.WebFrameWork/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v2.0",
@@ -811,6 +821,11 @@
       "path": "../DataInter/DataInter.csproj",
       "msbuildProject": "../DataInter/DataInter.csproj"
     },
+    "KJT.Resouce/1.0.0": {
+      "type": "project",
+      "path": "../KJT.Resouce/KJT.Resouce.csproj",
+      "msbuildProject": "../KJT.Resouce/KJT.Resouce.csproj"
+    },
     "KJT.WebFrameWork/1.0.0": {
       "type": "project",
       "path": "../KJT.WebFrameWork/KJT.WebFrameWork.csproj",
@@ -820,6 +835,7 @@
   "projectFileDependencyGroups": {
     ".NETCoreApp,Version=v2.0": [
       "DataInter >= 1.0.0",
+      "KJT.Resouce >= 1.0.0",
       "Microsoft.NETCore.App >= 2.0.0"
     ]
   },
@@ -859,6 +875,9 @@
           "projectReferences": {
             "D:\\Work\\Git\\NetCoreMVC\\src\\DataInter\\DataInter.csproj": {
               "projectPath": "D:\\Work\\Git\\NetCoreMVC\\src\\DataInter\\DataInter.csproj"
+            },
+            "D:\\Work\\Git\\NetCoreMVC\\src\\KJT.Resouce\\KJT.Resouce.csproj": {
+              "projectPath": "D:\\Work\\Git\\NetCoreMVC\\src\\KJT.Resouce\\KJT.Resouce.csproj"
             }
           }
         }

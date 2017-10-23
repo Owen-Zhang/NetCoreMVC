@@ -4778,7 +4778,8 @@
         "type": "project",
         "framework": ".NETCoreApp,Version=v2.0",
         "dependencies": {
-          "DataInter": "1.0.0"
+          "DataInter": "1.0.0",
+          "KJT.Resouce": "1.0.0"
         },
         "compile": {
           "bin/placeholder/DataImplement.dll": {}

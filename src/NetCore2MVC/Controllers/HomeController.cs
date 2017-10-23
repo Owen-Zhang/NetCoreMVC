@@ -20,7 +20,7 @@ namespace NetCore2MVC.Controllers
         {
             //这个可以写到filter里去，不用下层管理
             System.Threading.Thread.CurrentThread.CurrentCulture = //System.Globalization.CultureInfo.GetCultureInfo("en-Us");
-            System.Threading.Thread.CurrentThread.CurrentUICulture = System.Globalization.CultureInfo.GetCultureInfo("en-Us"); //en-Us
+            System.Threading.Thread.CurrentThread.CurrentUICulture = System.Globalization.CultureInfo.GetCultureInfo("en-Us"); //en-Us, zh-HK,zh-CN,zh-TW
 
             this.settings = setting.Value;
             this.inter = inter;

@@ -6,6 +6,7 @@
 
   <ItemGroup>
     <ProjectReference Include="..\DataInter\DataInter.csproj" />
+    <ProjectReference Include="..\KJT.Resouce\KJT.Resouce.csproj" />
   </ItemGroup>
 
 </Project>
