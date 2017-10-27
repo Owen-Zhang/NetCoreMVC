@@ -1,0 +1,15 @@
+D:\Work\Git\NetCoreMVC\src\KJT.ServiceImplement\bin\Debug\netcoreapp2.0\KJT.ServiceImplement.deps.json
+D:\Work\Git\NetCoreMVC\src\KJT.ServiceImplement\bin\Debug\netcoreapp2.0\KJT.ServiceImplement.dll
+D:\Work\Git\NetCoreMVC\src\KJT.ServiceImplement\bin\Debug\netcoreapp2.0\KJT.ServiceImplement.pdb
+D:\Work\Git\NetCoreMVC\src\KJT.ServiceImplement\bin\Debug\netcoreapp2.0\DataInter.dll
+D:\Work\Git\NetCoreMVC\src\KJT.ServiceImplement\bin\Debug\netcoreapp2.0\KJT.ServiceInterface.dll
+D:\Work\Git\NetCoreMVC\src\KJT.ServiceImplement\bin\Debug\netcoreapp2.0\KJT.WebFrameWork.dll
+D:\Work\Git\NetCoreMVC\src\KJT.ServiceImplement\bin\Debug\netcoreapp2.0\DataInter.pdb
+D:\Work\Git\NetCoreMVC\src\KJT.ServiceImplement\bin\Debug\netcoreapp2.0\KJT.ServiceInterface.pdb
+D:\Work\Git\NetCoreMVC\src\KJT.ServiceImplement\bin\Debug\netcoreapp2.0\KJT.WebFrameWork.pdb
+D:\Work\Git\NetCoreMVC\src\KJT.ServiceImplement\obj\Debug\netcoreapp2.0\KJT.ServiceImplement.csprojResolveAssemblyReference.cache
+D:\Work\Git\NetCoreMVC\src\KJT.ServiceImplement\obj\Debug\netcoreapp2.0\KJT.ServiceImplement.csproj.CoreCompileInputs.cache
+D:\Work\Git\NetCoreMVC\src\KJT.ServiceImplement\obj\Debug\netcoreapp2.0\KJT.ServiceImplement.AssemblyInfoInputs.cache
+D:\Work\Git\NetCoreMVC\src\KJT.ServiceImplement\obj\Debug\netcoreapp2.0\KJT.ServiceImplement.AssemblyInfo.cs
+D:\Work\Git\NetCoreMVC\src\KJT.ServiceImplement\obj\Debug\netcoreapp2.0\KJT.ServiceImplement.dll
+D:\Work\Git\NetCoreMVC\src\KJT.ServiceImplement\obj\Debug\netcoreapp2.0\KJT.ServiceImplement.pdb

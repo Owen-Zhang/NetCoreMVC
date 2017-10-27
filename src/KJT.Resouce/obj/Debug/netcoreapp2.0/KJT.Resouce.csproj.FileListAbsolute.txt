@@ -1,0 +1,16 @@
+D:\Work\Git\NetCoreMVC\src\KJT.Resouce\bin\Debug\netcoreapp2.0\KJT.Resouce.deps.json
+D:\Work\Git\NetCoreMVC\src\KJT.Resouce\bin\Debug\netcoreapp2.0\KJT.Resouce.dll
+D:\Work\Git\NetCoreMVC\src\KJT.Resouce\bin\Debug\netcoreapp2.0\KJT.Resouce.pdb
+D:\Work\Git\NetCoreMVC\src\KJT.Resouce\bin\Debug\netcoreapp2.0\en-Us\KJT.Resouce.resources.dll
+D:\Work\Git\NetCoreMVC\src\KJT.Resouce\bin\Debug\netcoreapp2.0\zh-HK\KJT.Resouce.resources.dll
+D:\Work\Git\NetCoreMVC\src\KJT.Resouce\obj\Debug\netcoreapp2.0\KJT.Resouce.Message.resources
+D:\Work\Git\NetCoreMVC\src\KJT.Resouce\obj\Debug\netcoreapp2.0\KJT.Resouce.Message.en-Us.resources
+D:\Work\Git\NetCoreMVC\src\KJT.Resouce\obj\Debug\netcoreapp2.0\KJT.Resouce.Message.zh-HK.resources
+D:\Work\Git\NetCoreMVC\src\KJT.Resouce\obj\Debug\netcoreapp2.0\KJT.Resouce.csproj.GenerateResource.Cache
+D:\Work\Git\NetCoreMVC\src\KJT.Resouce\obj\Debug\netcoreapp2.0\KJT.Resouce.csproj.CoreCompileInputs.cache
+D:\Work\Git\NetCoreMVC\src\KJT.Resouce\obj\Debug\netcoreapp2.0\KJT.Resouce.AssemblyInfoInputs.cache
+D:\Work\Git\NetCoreMVC\src\KJT.Resouce\obj\Debug\netcoreapp2.0\KJT.Resouce.AssemblyInfo.cs
+D:\Work\Git\NetCoreMVC\src\KJT.Resouce\obj\Debug\netcoreapp2.0\en-Us\KJT.Resouce.resources.dll
+D:\Work\Git\NetCoreMVC\src\KJT.Resouce\obj\Debug\netcoreapp2.0\zh-HK\KJT.Resouce.resources.dll
+D:\Work\Git\NetCoreMVC\src\KJT.Resouce\obj\Debug\netcoreapp2.0\KJT.Resouce.dll
+D:\Work\Git\NetCoreMVC\src\KJT.Resouce\obj\Debug\netcoreapp2.0\KJT.Resouce.pdb

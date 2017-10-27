@@ -1,0 +1,8 @@
+D:\Work\Git\NetCoreMVC\src\KJT.Model\bin\Debug\netcoreapp2.0\KJT.Model.deps.json
+D:\Work\Git\NetCoreMVC\src\KJT.Model\bin\Debug\netcoreapp2.0\KJT.Model.dll
+D:\Work\Git\NetCoreMVC\src\KJT.Model\bin\Debug\netcoreapp2.0\KJT.Model.pdb
+D:\Work\Git\NetCoreMVC\src\KJT.Model\obj\Debug\netcoreapp2.0\KJT.Model.csproj.CoreCompileInputs.cache
+D:\Work\Git\NetCoreMVC\src\KJT.Model\obj\Debug\netcoreapp2.0\KJT.Model.AssemblyInfoInputs.cache
+D:\Work\Git\NetCoreMVC\src\KJT.Model\obj\Debug\netcoreapp2.0\KJT.Model.AssemblyInfo.cs
+D:\Work\Git\NetCoreMVC\src\KJT.Model\obj\Debug\netcoreapp2.0\KJT.Model.dll
+D:\Work\Git\NetCoreMVC\src\KJT.Model\obj\Debug\netcoreapp2.0\KJT.Model.pdb

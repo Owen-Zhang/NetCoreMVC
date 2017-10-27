@@ -1,0 +1,11 @@
+D:\Work\Git\NetCoreMVC\src\KJT.ServiceInterface\bin\Debug\netcoreapp2.0\KJT.ServiceInterface.deps.json
+D:\Work\Git\NetCoreMVC\src\KJT.ServiceInterface\bin\Debug\netcoreapp2.0\KJT.ServiceInterface.dll
+D:\Work\Git\NetCoreMVC\src\KJT.ServiceInterface\bin\Debug\netcoreapp2.0\KJT.ServiceInterface.pdb
+D:\Work\Git\NetCoreMVC\src\KJT.ServiceInterface\bin\Debug\netcoreapp2.0\KJT.WebFrameWork.dll
+D:\Work\Git\NetCoreMVC\src\KJT.ServiceInterface\bin\Debug\netcoreapp2.0\KJT.WebFrameWork.pdb
+D:\Work\Git\NetCoreMVC\src\KJT.ServiceInterface\obj\Debug\netcoreapp2.0\KJT.ServiceInterface.csprojResolveAssemblyReference.cache
+D:\Work\Git\NetCoreMVC\src\KJT.ServiceInterface\obj\Debug\netcoreapp2.0\KJT.ServiceInterface.csproj.CoreCompileInputs.cache
+D:\Work\Git\NetCoreMVC\src\KJT.ServiceInterface\obj\Debug\netcoreapp2.0\KJT.ServiceInterface.AssemblyInfoInputs.cache
+D:\Work\Git\NetCoreMVC\src\KJT.ServiceInterface\obj\Debug\netcoreapp2.0\KJT.ServiceInterface.AssemblyInfo.cs
+D:\Work\Git\NetCoreMVC\src\KJT.ServiceInterface\obj\Debug\netcoreapp2.0\KJT.ServiceInterface.dll
+D:\Work\Git\NetCoreMVC\src\KJT.ServiceInterface\obj\Debug\netcoreapp2.0\KJT.ServiceInterface.pdb
