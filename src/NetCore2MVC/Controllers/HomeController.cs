@@ -8,11 +8,13 @@ using KJT.WebFrameWork.Common;
 using Microsoft.Extensions.Configuration;
 using KJT.Resouce;
 using NetCore2MVC.Common;
+using KJT.Model;
+using NetCore2MVC.Validation;
+using System.Linq;
 
 namespace NetCore2MVC.Controllers
 {
-    [CommonFilter]
-    public class HomeController : Controller
+    public class HomeController : BaseController
     {
         private readonly AppSettingDetail settings;
         private readonly TestJsonModel jsonModel;
@@ -29,7 +31,7 @@ namespace NetCore2MVC.Controllers
         }
 
         public IActionResult Index()
-        {
+        { 
             var value = Message.key;
             var value2 = Message.adsfafdasdf;
             var result = Common.AutofacProvider.GetService<Inter>().TestInterfaceInfo("111");
@@ -53,9 +55,25 @@ namespace NetCore2MVC.Controllers
         }
 
 
-        public IActionResult Error()
+        public IActionResult Error(bool fromBack = false)
         {
+            if (!fromBack)
+            {
+                access.HttpContext.Response.WriteAsync("<html><body><div style=\"color:red\">sdfasdfasdfadaafda</div><div>224323423</div></body></html>");
+                return View();
+            }else 
             return View(new ErrorViewModel { RequestId = Activity.Current?.Id ?? HttpContext.TraceIdentifier });
+        }
+
+        [HttpPost]
+        public IActionResult SaveNews(NewInfo request)
+        {
+            var validator = new NewInfoValidation();
+            var result = validator.Validate(request);
+            if (result.IsValid)
+                throw new BusinessError(result.Errors.FirstOrDefault().ErrorMessage);
+
+            return null;
         }
     }
 }
