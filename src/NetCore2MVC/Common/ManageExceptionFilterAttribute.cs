@@ -18,7 +18,7 @@ namespace NetCore2MVC.Common
         /// </summary>
         public override void OnException(ExceptionContext context)
         {
-            if (!string.IsNullOrWhiteSpace(context.HttpContext.Request.Headers["HTTP_X_REQUESTED_WITH"]))
+            if (string.IsNullOrWhiteSpace(context.HttpContext.Request.Headers["HTTP_X_REQUESTED_WITH"]))
             {
                 //业务错误，直接返回就可以了
                 var message = context.Exception.Message;

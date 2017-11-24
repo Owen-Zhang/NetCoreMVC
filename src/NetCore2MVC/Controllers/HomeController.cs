@@ -68,10 +68,7 @@ namespace NetCore2MVC.Controllers
         [HttpPost]
         public IActionResult SaveNews(NewInfo request)
         {
-            var validator = new NewInfoValidation();
-            var result = validator.Validate(request);
-            if (result.IsValid)
-                throw new BusinessError(result.Errors.FirstOrDefault().ErrorMessage);
+            Validator.Validate<NewInfoValidation, NewInfo>(request);
 
             return null;
         }
