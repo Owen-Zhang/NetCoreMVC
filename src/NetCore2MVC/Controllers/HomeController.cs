@@ -16,18 +16,14 @@ namespace NetCore2MVC.Controllers
 {
     public class HomeController : BaseController
     {
-        private readonly AppSettingDetail settings;
-        private readonly TestJsonModel jsonModel;
         private readonly Inter inter;
         private readonly IHttpContextAccessor access; //通过注入方式去取httpContext, 也可以通过autofac的getservice去取
 
         
-        public HomeController(IOptions<AppSettingDetail> setting, Inter inter, IHttpContextAccessor access, IOptions<TestJsonModel> jsonModel)
+        public HomeController(Inter inter, IHttpContextAccessor access)
         {
-            this.settings = setting.Value;
             this.inter = inter;
             this.access = access;
-            this.jsonModel = jsonModel.Value;
         }
 
         public IActionResult Index()
@@ -40,10 +36,8 @@ namespace NetCore2MVC.Controllers
 
         public IActionResult About()
         {
-            var value = Message.key;
             var test2 = ConfigurationManager.GetValue("Logging:LogLevel:Default");
             var result = ConfigurationManager.GetData<TestJsonModel>("TestJson");
-            ViewData["Message"] = $"Your application description page.{settings.test}";
             return View();
         }
 

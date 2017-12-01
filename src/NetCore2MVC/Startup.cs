@@ -30,7 +30,6 @@ namespace NetCore2MVC
                 .SetBasePath(environment.ContentRootPath)
                 .AddJsonFile("appsettings.json", optional: false, reloadOnChange: true)
                 .AddJsonFile("Configuration/Test.json", false, reloadOnChange: true)
-                .AddXmlFile("Configuration/Route.config", false, reloadOnChange: true)
                 .AddEnvironmentVariables()
                 .Build();
         }
